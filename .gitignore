@@ -1,0 +1,53 @@
+# IDE / OS
+.vs/
+.vscode/
+.DS_Store
+*.vcxproj.user
+*.aps
+token.txt
+
+# Build outputs
+obj/
+bin/
+Debug/
+Release/
+src/**/Debug/
+src/**/Release/
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.dSYM
+
+# Python
+__pycache__/
+
+# ROMs / saves
+zelda3.sfc
+zelda3.smc
+*.sfc
+*.smc
+saves/*.sav
+saves/sram.dat
+saves/sram.bak
+
+# Assets generated/extracted
+assets/overworld/*.yaml
+assets/dungeon/*.yaml
+assets/img/
+assets/old/
+zelda3_assets.dat
+sprites-gfx/
+glsl-shaders/
+msu/
+tmp/
+
+# App/config outputs
+zelda3
+zelda3.*.ini
+zelda3.wiki
+SDL2.dll
+
+# Dependencies
+packages/
