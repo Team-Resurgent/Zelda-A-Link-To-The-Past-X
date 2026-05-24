@@ -1,4 +1,4 @@
-# Zelda 3 – A Link to the Past X
+# Zelda – A Link To The Past X
 ### Original Xbox Port
 
 A native Original Xbox port of [zelda3](https://github.com/snesrev/zelda3), the open-source reimplementation of The Legend of Zelda: A Link to the Past.
