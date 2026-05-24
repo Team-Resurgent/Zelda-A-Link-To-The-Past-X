@@ -172,7 +172,6 @@
     <ClInclude Include="..\third_party\opus-1.3.1-stripped\x86\pitch_sse.h" />
     <ClInclude Include="..\third_party\opus-1.3.1-stripped\x86\x86cpu.h" />
   </ItemGroup>
-
   <!-- Assets folder placeholder (put zelda3_assets.dat + zelda3.ini here) -->
   <ItemGroup>
     <Text Include="Media\Copy Assets Here.txt" />
@@ -189,13 +188,13 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>NotSet</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>false</WholeProgramOptimization>
     <CharacterSet>NotSet</CharacterSet>
   </PropertyGroup>

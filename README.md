@@ -163,14 +163,14 @@ To identify folders via FTP, each save container includes an `info.txt` file wit
 | Xbox Button | SNES Button | Action |
 |---|---|---|
 | A | B | Sword / action |
-| B | A | Run / dash |
-| X | Y | Item slot 1 |
-| Y | X | Item slot 2 (with Switch L/R enabled) |
-| Left Trigger | L | Item rotate left / L item slot |
-| Right Trigger | R | Item rotate right / R item slot |
+| B | A | Run / actions |
+| X | Y | Use item |
+| Y | X | View map |
+| Left Trigger | L | Use item / switch item slot (L) |
+| Right Trigger | R | Use item / switch item slot (R) |
 | D-Pad | D-Pad | Movement |
-| Start | Start | Pause / map |
-| Back | Select | Map / select |
+| Start | Start | Sub screen / select item |
+| Back | Select | End game / save |
 | L3 (left stick click) | — | Open Xbox menu |
 
 ### Xbox Menu (L3)
